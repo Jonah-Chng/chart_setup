@@ -1,0 +1,4 @@
+Git
+Today is monday. Target to finish logger practice by today.
+Target to Go through and understand bh code
+Target to implement a version of the MiR fleet adapter - stored in https://github.com/sharp-rmf/fleet_adapter_mir/tree/ch3/fleet_adapter_mir
